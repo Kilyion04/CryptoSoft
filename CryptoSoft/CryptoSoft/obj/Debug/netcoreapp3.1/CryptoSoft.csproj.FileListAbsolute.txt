@@ -1,0 +1,14 @@
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.exe
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.deps.json
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.json
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.dev.json
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfoInputs.cache
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfo.cs
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CoreCompileInputs.cache
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.dll
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache
+E:\A3\Prog Système\Projet\Cryptosoft\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.AssemblyReference.cache

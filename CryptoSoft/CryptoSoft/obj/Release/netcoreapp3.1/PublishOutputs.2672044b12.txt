@@ -1,0 +1,5 @@
+C:\Users\kilyion\OneDrive\Bureau\CryptoSoft.exe
+C:\Users\kilyion\OneDrive\Bureau\CryptoSoft.dll
+C:\Users\kilyion\OneDrive\Bureau\CryptoSoft.deps.json
+C:\Users\kilyion\OneDrive\Bureau\CryptoSoft.runtimeconfig.json
+C:\Users\kilyion\OneDrive\Bureau\CryptoSoft.pdb

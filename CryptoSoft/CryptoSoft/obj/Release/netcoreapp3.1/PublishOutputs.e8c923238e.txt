@@ -1,0 +1,5 @@
+E:\A3\Prog Système\Crypto\3\CryptoSoft.exe
+E:\A3\Prog Système\Crypto\3\CryptoSoft.dll
+E:\A3\Prog Système\Crypto\3\CryptoSoft.deps.json
+E:\A3\Prog Système\Crypto\3\CryptoSoft.runtimeconfig.json
+E:\A3\Prog Système\Crypto\3\CryptoSoft.pdb
